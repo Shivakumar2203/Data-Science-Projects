@@ -4,9 +4,9 @@ From PortfolioProject..CovidDeaths
 where continent is not null
 order by 3,4
 
---Select *
---From PortfolioProject..CovidVaccination
---order by 3,4
+Select *
+From PortfolioProject..CovidVaccination
+order by 3,4
 
 --select data the we are going to be using 
 
